@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+	background-color: #333;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 40px;
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.color {
+    width: 100px;
+    height: 50px;
+    border-radius: 8px;
+}
+
+h1 {
+    color: white
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
